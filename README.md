@@ -1,1 +1,1 @@
-# pbl_project
+Healthcare decision-making often begins with the identification of symptoms, yet interpreting symptoms accurately without medical expertise can be challenging. Many diseases share common symptoms such as fever, fatigue, headache, nausea, and body pain, which makes early self-diagnosis confusing and sometimes misleading. With the rapid advancement of Artificial Intelligence and Machine Learning, it has become possible to develop intelligent systems that can analyze symptom patterns and predict potential diseases efficiently.
